@@ -1,6 +1,6 @@
 ## Hayden Shinn's Github
 
-# Public Projects:
+### Public Projects:
 
 _Differential RNA Ediitng_
 
