@@ -11,4 +11,4 @@ _Differential RNA Ediitng (Schrauwen Lab - Columbia University Medical Center)_
 
 _Northeastern University Bioinformatics Masters Program_
 
-1) Paper Recreation: _BRG1 HSA domain interactions with BCL7 proteins are critical for remodeling and gene expression_ [Individual Analysis]() | [Presentation]()
+1) Paper Recreation: _BRG1 HSA domain interactions with BCL7 proteins are critical for remodeling and gene expression_ \ [Individual Analysis]() | [Presentation]()
