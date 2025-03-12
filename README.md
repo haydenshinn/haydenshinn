@@ -17,4 +17,4 @@ _Differential RNA Ediitng (Schrauwen Lab - Columbia University Medical Center)_
 
 
 #### BINF6200: Bioinformatics Programming
-This coursework is listed on a private [repository](https://github.com/haydenshinn/BINF6200/blob/0721d57f4ccf351787bc8ac1d18216ca5e052b51/README.md) due to academic policy at Northeastern University. If you are a recruiter or a hiring manager, please email me at **shinn.h@northeastern.edu** and I will grant you access to the respository. 
+This coursework is listed on a private [repository](https://github.com/haydenshinn/BINF6200.git) due to academic policy at Northeastern University. If you are a recruiter or a hiring manager, please email me at **shinn.h@northeastern.edu** and I will grant you access to the respository. 
